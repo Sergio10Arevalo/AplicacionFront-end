@@ -1,0 +1,566 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v27_5 {
+  width: 100%;
+  height: 1117px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v8_69 {
+  width: 100%;
+  height: 481px;
+  background: url("../images/v8_69.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 856px;
+  left: 38px;
+  overflow: hidden;
+}
+.v4_189 {
+  width: 100%;
+  height: 414px;
+  background: url("../images/v4_189.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 34px;
+  left: 35px;
+  overflow: hidden;
+}
+.v4_190 {
+  width: 100%;
+  height: 414px;
+  background: url("../images/v4_190.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_191 {
+  width: 100%;
+  height: 112px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 150px;
+  left: 0px;
+  overflow: hidden;
+}
+.name {
+  color: #fff;
+}
+.v4_193 {
+  width: 262px;
+  height: 486px;
+  background: url("../images/v4_193.png");
+  opacity: 1;
+  position: absolute;
+  top: 167px;
+  left: 1304px;
+  border: 1px solid rgba(255,255,255,1);
+}
+.v4_194 {
+  width: 357px;
+  height: 112px;
+  background: rgba(255,250,250,1);
+  opacity: 1;
+  position: absolute;
+  top: 150px;
+  left: 0px;
+  overflow: hidden;
+}
+.v6_38 {
+  width: 428px;
+  height: 481px;
+  background: url("../images/v6_38.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v9_122 {
+  width: 221px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 227px;
+  left: 958px;
+  font-family: Microsoft YaHei UI;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v9_123 {
+  width: 188px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 227px;
+  left: 1456px;
+  font-family: Microsoft YaHei UI;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v9_124 {
+  width: 279px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 227px;
+  left: 457px;
+  font-family: Microsoft YaHei UI;
+  font-weight: Regular;
+  font-size: 24px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_68 {
+  width: 100%;
+  height: 916px;
+  background: url("../images/v8_68.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 135px;
+  left: 3px;
+  overflow: hidden;
+}
+.v4_188 {
+  width: 100%;
+  height: 916px;
+  background: rgba(217,217,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v15_173 {
+  width: 100%;
+  height: 914px;
+  background: url("../images/v15_173.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 2px;
+  left: 3px;
+  overflow: hidden;
+}
+.v4_210 {
+  width: 469px;
+  height: 698px;
+  background: url("../images/v4_210.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 102px;
+  left: 137px;
+  overflow: hidden;
+}
+.v4_211 {
+  width: 331px;
+  height: 88px;
+  background: url("../images/v4_211.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 610px;
+  left: 138px;
+  overflow: hidden;
+}
+.v4_212 {
+  width: 331px;
+  height: 88px;
+  background: url("../images/v4_212.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_213 {
+  width: 331px;
+  height: 88px;
+  background: url("../images/v4_213.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_214 {
+  width: 249px;
+  height: 88px;
+  background: rgba(228,243,195,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 46px;
+  overflow: hidden;
+}
+.v4_215 {
+  width: 93px;
+  height: 88px;
+  background: rgba(228,243,195,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 237px;
+  border-radius: 50%;
+}
+.v4_216 {
+  width: 93px;
+  height: 88px;
+  background: rgba(228,243,195,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+}
+.v4_224 {
+  width: 362px;
+  height: 75px;
+  background: url("../images/v4_224.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_225 {
+  width: 362px;
+  height: 75px;
+  background: url("../images/v4_225.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_226 {
+  width: 362px;
+  height: 75px;
+  background: url("../images/v4_226.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_227 {
+  width: 272px;
+  height: 75px;
+  background: rgba(228,243,195,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 50px;
+  overflow: hidden;
+}
+.v4_228 {
+  width: 102px;
+  height: 75px;
+  background: rgba(228,243,195,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 259px;
+  border-radius: 50%;
+}
+.v4_229 {
+  width: 102px;
+  height: 75px;
+  background: rgba(228,243,195,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+}
+.v4_208 {
+  width: 608px;
+  height: 436px;
+  background: url("../images/v4_208.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 240px;
+  left: 137px;
+  overflow: hidden;
+}
+.v4_209 {
+  width: 781px;
+  height: 586px;
+  background: rgba(250,229,217,1);
+  opacity: 1;
+  position: absolute;
+  top: 159px;
+  left: 855px;
+  overflow: hidden;
+}
+.v11_157 {
+  width: 296px;
+  height: 71px;
+  background: url("../images/v11_157.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  margin: 43px;
+  opacity: 1;
+  position: absolute;
+  top: 156px;
+  left: 79px;
+  overflow: hidden;
+}
+.v11_163 {
+  width: 249px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 734px;
+  left: 335px;
+  font-family: Microsoft YaHei UI;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_168 {
+  width: 422px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 431px;
+  left: 1246px;
+  font-family: Microsoft YaHei UI;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_162 {
+  width: 206px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 248px;
+  left: 218px;
+  font-family: Microsoft YaHei UI;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v8_67 {
+  width: 100%;
+  height: 269px;
+  background: url("../images/v8_67.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 83px;
+  overflow: hidden;
+}
+.v6_31 {
+  width: 100%;
+  height: 102px;
+  background: url("../images/v6_31.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 35px;
+  left: 83px;
+  overflow: hidden;
+}
+.v6_32 {
+  width: 100%;
+  height: 99px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v4_232 {
+  width: 73px;
+  height: 66px;
+  background: url("../images/v4_232.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 15px;
+  left: 1593px;
+  overflow: hidden;
+}
+.v6_34 {
+  width: 579px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 33px;
+  left: 235px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: New Rocker;
+  font-weight: Regular;
+  font-size: 48px;
+  opacity: 1;
+  text-align: left;
+}
+.v6_35 {
+  width: 65px;
+  height: 58px;
+  background: url("../images/v6_35.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 20px;
+  left: 1338px;
+  overflow: hidden;
+}
+.v6_36 {
+  width: 65px;
+  height: 58px;
+  background: rgba(0,0,0,1);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.v6_9 {
+  width: 324px;
+  height: 269px;
+  background: url("../images/v6_9.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v11_164 {
+  width: 780px;
+  height: 250px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 291px;
+  left: 853px;
+  overflow: hidden;
+}
+.v11_167 {
+  width: 742px;
+  height: 104px;
+  background: url("../images/v11_167.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 416px;
+  left: 872px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v11_165 {
+  width: 467px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 327px;
+  left: 872px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Microsoft YaHei UI;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
+.v11_169 {
+  width: 222px;
+  height: 222px;
+  background: url("../images/v11_169.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 563px;
+  left: 934px;
+  overflow: hidden;
+}
+.v11_170 {
+  width: 282px;
+  height: 46px;
+  background: rgba(167,221,148,1);
+  opacity: 1;
+  position: absolute;
+  top: 811px;
+  left: 1102px;
+  overflow: hidden;
+}
+.v11_171 {
+  width: 219px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 811px;
+  left: 1133px;
+  font-family: Microsoft YaHei UI;
+  font-weight: Regular;
+  font-size: 32px;
+  opacity: 1;
+  text-align: left;
+}
